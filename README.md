@@ -8,7 +8,7 @@ The portfolio focuses on automotive data analysis projects, including Python ana
 
 You can view the live portfolio website here:
 
-https://github.com/danielnadler8/danielnadler8.github.io
+https://danielnadler8.github.io/
 
 ## About the Portfolio
 
