@@ -44,7 +44,7 @@ The project includes:
 
 You can view the full project files here:
 
-https://github.com/YOUR-USERNAME/automotive-data-analysis
+https://github.com/danielnadler8/automotive-data-analysis
 
 ## Portfolio Sections
 
